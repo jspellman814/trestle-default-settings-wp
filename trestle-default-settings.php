@@ -7,7 +7,9 @@ Author:      TrestleMedia
 Author URI: https://trestlemedia.com
 */
 
-if( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+if (!defined('ABSPATH')) {
+  exit;
+} // Exit if accessed directly
 
 /**
  * Disable theme file editor
