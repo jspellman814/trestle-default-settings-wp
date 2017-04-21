@@ -1,0 +1,8 @@
+{
+  "name": "trestlemedia/trestle-default-settings-wp",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.3.2",
+    "composer/installers": "v1.2.0"
+  }
+}
